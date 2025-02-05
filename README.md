@@ -50,9 +50,10 @@ git clone https://github.com/your-repo/graphql-jwt-api.git
 cd graphql-jwt-api
 ```
 
-### **2. Install Dependencies**
+### **2. Install Dependencies and Create Database**
 ```sh
 npm install
+npm predeploy
 ```
 
 ### **3. Setup Environment Variables**
